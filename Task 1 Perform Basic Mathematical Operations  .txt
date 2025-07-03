@@ -1,0 +1,18 @@
+Python 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+>>> #First number: 5
+>>> #Second number: 10
+>>>
+>>> print('Addition:',5+10)
+Addition: 15
+>>>
+>>> print('Substraction:',5-10)
+Substraction: -5
+>>>
+>>> print('Multiplication:',5*10)
+Multiplication: 50
+>>>
+>>> print('Division:',5/10)
+Division: 0.5
+>>>
